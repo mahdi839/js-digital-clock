@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgb(55, 55, 179);
+}
+.display{
+    
+    background-color: white; 
+     width: 200px;
+    height: 80px;
+    margin: 5px ;
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    border: rgb(49, 45, 45) solid 8px;
+    margin-top: 20px;
+    
+}
+small{
+    float: right;
+    margin-bottom: 50px;
+}
+
+
